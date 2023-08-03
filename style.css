@@ -1,0 +1,46 @@
+html {
+    /* Header Toolbar Background */
+    --core-header-toolbar-background: 
+
+    background-image: -moz-linear-gradient( -152deg, rgb(249,128,8) 0%, rgb(249,128,18) 29%, rgb(157,117,122) 52%, rgb(65,105,225) 74%);
+    background-image: -webkit-linear-gradient( -152deg, rgb(249,128,8) 0%, rgb(249,128,18) 29%, rgb(157,117,122) 52%, rgb(65,105,225) 74%);
+    background-image: -ms-linear-gradient( -152deg, rgb(249,128,8) 0%, rgb(249,128,18) 29%, rgb(157,117,122) 52%, rgb(65,105,225) 74%);
+    
+    ;
+
+    /* Header Toolbar Text */
+    --core-header-toolbar-text: #fff;
+
+    /* Text */
+    --ion-color-primary: #167D58;
+
+    /* RGB list of the color */
+    --ion-color-primary-rgb: 22,125,88;
+
+    /* Page background */
+    --background-color: white;
+
+    /* Page background rgb */
+    --ion-background-color-rgb: 255, 255, 255;
+ 
+    /* Main text color */
+    --text-color: #385bbf;
+
+    /* Main text color rgb */
+    --ion-text-color-rgb: 56, 91, 191;
+
+    /* Bottom Tabs Background */
+    --core-bottom-tabs-background: 
+    
+    background-image: -moz-linear-gradient( -152deg, rgb(65,106,225) 0%, rgb(157,118,120) 41%, rgb(248,129,14) 100%);
+    background-image: -webkit-linear-gradient( -152deg, rgb(65,106,225) 0%, rgb(157,118,120) 41%, rgb(248,129,14) 100%);
+    background-image: -ms-linear-gradient( -152deg, rgb(65,106,225) 0%, rgb(157,118,120) 41%, rgb(248,129,14) 100%);
+   
+    ;
+
+    /* Bottom Tabs Active Text */
+    --core-bottom-tabs-active-text: #FF3023;
+
+    /* Bottom Tabs Inactive Text */
+    --core-bottom-tabs-inactive-text: #fff;
+}
